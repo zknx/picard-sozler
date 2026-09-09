@@ -1,0 +1,8 @@
+uuid = "ece34188-2f8d-404c-aeca-67029f8014a7"
+name = "Picard Sözler"
+authors = ["Deniz Engin <dev@dilbil.im>"]
+description = """Sözler is a lyrics fetcher for Picard"""
+api = ['3.0']
+license = "GPL-3.0-or-later"
+license_url = "https://www.gnu.org/licenses/gpl-3.0-standalone.html"
+long_description = """Sözler is a lyrics fetcher for Picard. It uses the public API provided by the lrclib.net project, which requires no registration or API keys! The API provides synced lyrics and unsynced ones as a fallback. We prioritize the syced ones. The lrclib project does not utilize MB IDs, so the results may not be as accurate. It is recommended to glimpse over your lyrics when tagging."""
